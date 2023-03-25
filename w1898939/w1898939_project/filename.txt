@@ -1,0 +1,15 @@
+---Doctor Details---
+
+Doctor Name: ashini
+Doctor's Surname: perera
+Date: 2/3/2022
+Doctor's Mobile No: 712345678
+Doctr's Medical License Number: 1
+Doctor's Specialisation: surgeon
+
+Doctor Name: shaini
+Doctor's Surname: silva
+Date: 5/4/2022
+Doctor's Mobile No: 774567893
+Doctr's Medical License Number: 3
+Doctor's Specialisation: surgeon
